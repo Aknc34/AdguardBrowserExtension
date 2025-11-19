@@ -54,7 +54,7 @@
     "crx": "^5.0.1",
     "css-loader": "^6.2.0",
     "css.escape": "^1.5.1",
-    "eslint": "^7.32.0",
+    "eslint": "^9.0.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-plugin-import": "^2.24.0",
     "eslint-plugin-jsx-a11y": "^6.4.1",
